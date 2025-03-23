@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010772008094",
+    "project_id": "testapp-31832",
+    "storage_bucket": "testapp-31832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010772008094:android:f196d7dda4dde207e9af8f",
+        "android_client_info": {
+          "package_name": "com.codenest.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBREvjljjDrNzv4EPFl-z_bS9wtHNc0Osk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
